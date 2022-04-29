@@ -1,0 +1,142 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    text-align: center;    
+}
+
+
+h1{
+    color: #1A3C40;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto ;
+}
+
+h2{
+    color: #1A3C40;    
+}
+
+h3{
+    color: #1A3C40;   
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #1A3C40 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;    
+}
+
+.top-container{
+    background-color: #417D7A;
+    padding-top: 150px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+    background-color: #417D7A;
+    font-size: 1rem;
+    padding: 20px 0 10px;
+    margin-bottom: 0;
+
+}
+
+.top-image{
+    position: absolute;
+    top: 10px;
+    right: 300px;
+    width: 150px;
+    height: auto;
+}
+
+.bottom-image{
+    position: absolute;
+    left: 400px;
+    bottom: 1300px;
+    width: 150px;
+    height: auto;
+}
+
+.trophy{
+    width: 250px;
+    height: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.qa{
+    background-color: #1A3C40;
+    border-radius: 10%;
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.footer-link{
+    color: #1A3C40;
+    width: 1rem;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.contac-message{
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.foto{
+    border-radius: 100%;
+    width: 30%;
+}
+
+.fa-whatsapp{
+    color: green;
+    
+}
+
+.fa-whatsapp:hover,.fa-linkedin:hover,.fa-facebook:hover{
+    color: white;
+    
+}
+
+.fa-linkedin{
+    color: dodgerblue;
+}
+
+.btn{
+    background-color: #1A3C40;
+    border-radius: 10%;
+    text-decoration: none;
+    color: darkgray;
+    padding: 10px;
+    height: 100px;
+    width: auto;
+
+}
+
+.btn:hover{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    color: #1A3C40;
+}
